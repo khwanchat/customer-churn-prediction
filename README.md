@@ -33,7 +33,7 @@ We explore multiple approaches including **Logistic Regression, Random Forest, C
 
 ## 🤝 Contributors
 
-This was a group project completed as part of the Business Analytics Foundation course.
+This was a group project completed as part of the Foundation of Business Analytics course.
 
 **Team Members:**
 - Khwanchat Phutphithak 
